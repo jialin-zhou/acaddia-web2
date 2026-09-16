@@ -1,0 +1,7 @@
+# Claude 相关文件
+.claude/
+.claudian/
+CLAUDE.md
+
+# Git 相关
+.git/
