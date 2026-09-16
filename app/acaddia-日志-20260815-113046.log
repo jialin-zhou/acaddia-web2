@@ -1,0 +1,899 @@
+[11:28:02.725] [INFO ] [app] 点击 获取信息（主界面获取）
+[11:28:02.726] [INFO ] [serial] 开始主界面获取（Down=1005）
+[11:28:02.727] [INFO ] [serial] TX 报文 37 (0x25) {"hex":"68 04 04 68 00 09 80 25 AE 16","state":"Down=1005 idx=0 err=0 msgEnd=false msgLen=0"}
+[11:28:02.744] [DEBUG] [serial] RX 原始字节 ×1 E5
+[11:28:02.745] [DEBUG] [serial] RX 原始字节 ×1 68
+[11:28:02.747] [DEBUG] [serial] RX 原始字节 ×1 4C
+[11:28:02.747] [DEBUG] [serial] RX 原始字节 ×1 4C
+[11:28:02.749] [DEBUG] [serial] RX 原始字节 ×1 68
+[11:28:02.750] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.751] [DEBUG] [serial] RX 原始字节 ×1 88
+[11:28:02.752] [DEBUG] [serial] RX 原始字节 ×1 80
+[11:28:02.754] [DEBUG] [serial] RX 原始字节 ×2 24 00
+[11:28:02.755] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.756] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.757] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.758] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.759] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.762] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.762] [DEBUG] [serial] RX 原始字节 ×2 00 00
+[11:28:02.763] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.764] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.765] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.766] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.767] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.768] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.772] [DEBUG] [serial] RX 原始字节 ×3 00 0A 00
+[11:28:02.772] [DEBUG] [serial] RX 原始字节 ×1 09
+[11:28:02.774] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.775] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.775] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.777] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.778] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.779] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.780] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.781] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.782] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.783] [DEBUG] [serial] RX 原始字节 ×1 04
+[11:28:02.784] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.785] [DEBUG] [serial] RX 原始字节 ×1 05
+[11:28:02.788] [DEBUG] [serial] RX 原始字节 ×2 00 04
+[11:28:02.788] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.789] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.790] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.791] [DEBUG] [serial] RX 原始字节 ×1 FE
+[11:28:02.792] [DEBUG] [serial] RX 原始字节 ×1 FF
+[11:28:02.793] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.794] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.795] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.796] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.797] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.799] [DEBUG] [serial] RX 原始字节 ×1 40
+[11:28:02.800] [DEBUG] [serial] RX 原始字节 ×1 09
+[11:28:02.801] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.802] [DEBUG] [serial] RX 原始字节 ×1 07
+[11:28:02.805] [DEBUG] [serial] RX 原始字节 ×2 00 00
+[11:28:02.805] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.806] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.807] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.808] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.809] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.810] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.811] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.812] [DEBUG] [serial] RX 原始字节 ×1 09
+[11:28:02.813] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.814] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.815] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.816] [DEBUG] [serial] RX 原始字节 ×1 05
+[11:28:02.817] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.819] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.820] [DEBUG] [serial] RX 原始字节 ×2 00 FE
+[11:28:02.821] [DEBUG] [serial] RX 原始字节 ×1 FF
+[11:28:02.822] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.823] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.824] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.826] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.826] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.828] [DEBUG] [serial] RX 原始字节 ×1 40
+[11:28:02.829] [DEBUG] [serial] RX 原始字节 ×1 E4
+[11:28:02.830] [DEBUG] [serial] RX 原始字节 ×1 16
+[11:28:02.934] [DEBUG] [serial] E5 为数据帧前缀（同窗口），按数据帧处理
+[11:28:02.935] [INFO ] [serial] RX 数据帧 Nr=36 (0x24) {"hex":"68 4C 4C 68 00 88 80 24 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0A 00 09 00 00 00 00 00 00 00 00 00 04 00 05 00 04 00 00 00 FE FF 00 00 00 00 00 40 09 00 07 00 00 00 00 00 00 00 00 00 09 00 00 00 05 00 00 00 FE FF 00 00 00 00 00 40 E4 16","len":82,"state":"Down=1005 idx=0 err=0 msgEnd=false msgLen=0"}
+[11:28:02.936] [INFO ] [serial] TX 报文 47 (0x2f) {"hex":"68 04 04 68 00 09 80 2F B8 16","state":"Down=1005 idx=1 err=0 msgEnd=false msgLen=0"}
+[11:28:02.950] [DEBUG] [serial] RX 原始字节 ×1 E5
+[11:28:02.951] [DEBUG] [serial] RX 原始字节 ×1 68
+[11:28:02.952] [DEBUG] [serial] RX 原始字节 ×1 1E
+[11:28:02.953] [DEBUG] [serial] RX 原始字节 ×1 1E
+[11:28:02.955] [DEBUG] [serial] RX 原始字节 ×1 68
+[11:28:02.955] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.957] [DEBUG] [serial] RX 原始字节 ×1 A8
+[11:28:02.958] [DEBUG] [serial] RX 原始字节 ×1 80
+[11:28:02.959] [DEBUG] [serial] RX 原始字节 ×1 30
+[11:28:02.960] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.961] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.962] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:28:02.963] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.964] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.965] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.966] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:28:02.967] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.968] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:28:02.969] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.970] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:28:02.971] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.972] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.973] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.974] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:28:02.975] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.976] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.977] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.978] [DEBUG] [serial] RX 原始字节 ×1 95
+[11:28:02.979] [DEBUG] [serial] RX 原始字节 ×1 11
+[11:28:02.981] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.982] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.983] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:28:02.984] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.985] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.986] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:02.987] [DEBUG] [serial] RX 原始字节 ×1 04
+[11:28:02.988] [DEBUG] [serial] RX 原始字节 ×1 16
+[11:28:03.093] [DEBUG] [serial] E5 为数据帧前缀（同窗口），按数据帧处理
+[11:28:03.094] [INFO ] [serial] RX 数据帧 Nr=48 (0x30) {"hex":"68 1E 1E 68 00 A8 80 30 00 00 01 00 00 00 01 00 01 00 01 00 00 00 01 00 00 00 95 11 00 00 01 00 00 00 04 16","len":36,"state":"Down=1005 idx=1 err=0 msgEnd=false msgLen=0"}
+[11:28:03.094] [INFO ] [serial] TX 报文 47 (0x2f) {"hex":"68 04 04 68 00 09 80 2F B8 16","state":"Down=1005 idx=2 err=0 msgEnd=false msgLen=0"}
+[11:28:03.108] [DEBUG] [serial] RX 原始字节 ×1 E5
+[11:28:03.109] [DEBUG] [serial] RX 原始字节 ×1 68
+[11:28:03.110] [DEBUG] [serial] RX 原始字节 ×1 1E
+[11:28:03.111] [DEBUG] [serial] RX 原始字节 ×1 1E
+[11:28:03.113] [DEBUG] [serial] RX 原始字节 ×1 68
+[11:28:03.114] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:03.115] [DEBUG] [serial] RX 原始字节 ×1 C8
+[11:28:03.116] [DEBUG] [serial] RX 原始字节 ×1 80
+[11:28:03.117] [DEBUG] [serial] RX 原始字节 ×1 30
+[11:28:03.118] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:03.119] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:03.120] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:28:03.121] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:03.122] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:03.123] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:03.124] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:28:03.125] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:03.126] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:28:03.127] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:03.128] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:03.129] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:03.130] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:03.131] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:03.132] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:28:03.133] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:03.134] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:03.136] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:03.136] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:28:03.138] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:03.138] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:03.139] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:03.141] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:28:03.142] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:03.143] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:03.144] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:03.145] [DEBUG] [serial] RX 原始字节 ×1 7E
+[11:28:03.146] [DEBUG] [serial] RX 原始字节 ×1 16
+[11:28:03.258] [DEBUG] [serial] E5 为数据帧前缀（同窗口），按数据帧处理
+[11:28:03.259] [INFO ] [serial] RX 数据帧 Nr=48 (0x30) {"hex":"68 1E 1E 68 00 C8 80 30 00 00 01 00 00 00 01 00 01 00 00 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 7E 16","len":36,"state":"Down=1005 idx=2 err=0 msgEnd=false msgLen=0"}
+[11:28:03.259] [INFO ] [serial] TX 报文 49 (0x31) {"hex":"68 04 04 68 00 09 80 31 BA 16","state":"Down=1005 idx=3 err=0 msgEnd=false msgLen=0"}
+[11:28:03.274] [DEBUG] [serial] RX 原始字节 ×1 E5
+[11:28:03.389] [INFO ] [serial] RX E5 短应答 {"state":"Down=1005 idx=3 err=0 msgEnd=false msgLen=0"}
+[11:28:03.389] [INFO ] [serial] 获取期收到 E5：设备确认命令且无数据帧可回，结束获取
+[11:28:03.389] [INFO ] [serial] 主界面获取结束 {"state":"Down=1005 idx=3 err=0 msgEnd=true msgLen=0","ADCacul":76,"BaseAngle":30,"Message":null}
+[11:28:43.944] [INFO ] [serial] 对话框命令 TX：33 (0x21) {"hex":"68 04 04 68 00 09 80 21 AA 16","expect":"Nr=32","down":1030}
+[11:28:43.963] [DEBUG] [serial] RX 原始字节 ×1 E5
+[11:28:43.964] [DEBUG] [serial] RX 原始字节 ×1 68
+[11:28:43.966] [DEBUG] [serial] RX 原始字节 ×1 5D
+[11:28:43.966] [DEBUG] [serial] RX 原始字节 ×1 5D
+[11:28:43.967] [DEBUG] [serial] RX 原始字节 ×1 68
+[11:28:43.968] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:43.972] [DEBUG] [serial] RX 原始字节 ×3 E8 80 20
+[11:28:43.972] [DEBUG] [serial] RX 原始字节 ×1 5C
+[11:28:43.974] [DEBUG] [serial] RX 原始字节 ×1 6F
+[11:28:43.974] [DEBUG] [serial] RX 原始字节 ×1 66
+[11:28:43.976] [DEBUG] [serial] RX 原始字节 ×1 6F
+[11:28:43.977] [DEBUG] [serial] RX 原始字节 ×1 6C
+[11:28:43.978] [DEBUG] [serial] RX 原始字节 ×1 6F
+[11:28:43.979] [DEBUG] [serial] RX 原始字节 ×1 43
+[11:28:43.981] [DEBUG] [serial] RX 原始字节 ×2 74 4D
+[11:28:43.982] [DEBUG] [serial] RX 原始字节 ×1 74
+[11:28:43.983] [DEBUG] [serial] RX 原始字节 ×1 39
+[11:28:43.984] [DEBUG] [serial] RX 原始字节 ×1 74
+[11:28:43.985] [DEBUG] [serial] RX 原始字节 ×1 75
+[11:28:43.986] [DEBUG] [serial] RX 原始字节 ×1 6F
+[11:28:43.989] [DEBUG] [serial] RX 原始字节 ×3 72 6F 87
+[11:28:43.990] [DEBUG] [serial] RX 原始字节 ×1 6F
+[11:28:43.991] [DEBUG] [serial] RX 原始字节 ×1 39
+[11:28:43.992] [DEBUG] [serial] RX 原始字节 ×1 74
+[11:28:43.993] [DEBUG] [serial] RX 原始字节 ×1 4D
+[11:28:43.995] [DEBUG] [serial] RX 原始字节 ×1 74
+[11:28:43.996] [DEBUG] [serial] RX 原始字节 ×1 4D
+[11:28:43.997] [DEBUG] [serial] RX 原始字节 ×1 74
+[11:28:43.998] [DEBUG] [serial] RX 原始字节 ×1 6B
+[11:28:43.999] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:44.000] [DEBUG] [serial] RX 原始字节 ×1 58
+[11:28:44.001] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:44.002] [DEBUG] [serial] RX 原始字节 ×1 4B
+[11:28:44.003] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:44.005] [DEBUG] [serial] RX 原始字节 ×1 48
+[11:28:44.005] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:44.006] [DEBUG] [serial] RX 原始字节 ×1 4F
+[11:28:44.007] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:44.008] [DEBUG] [serial] RX 原始字节 ×1 4E
+[11:28:44.009] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:44.010] [DEBUG] [serial] RX 原始字节 ×1 53
+[11:28:44.011] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:44.012] [DEBUG] [serial] RX 原始字节 ×1 4F
+[11:28:44.013] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:44.014] [DEBUG] [serial] RX 原始字节 ×1 B6
+[11:28:44.015] [DEBUG] [serial] RX 原始字节 ×1 CC
+[11:28:44.017] [DEBUG] [serial] RX 原始字节 ×1 B6
+[11:28:44.017] [DEBUG] [serial] RX 原始字节 ×1 CC
+[11:28:44.019] [DEBUG] [serial] RX 原始字节 ×1 F5
+[11:28:44.021] [DEBUG] [serial] RX 原始字节 ×3 CB 92 CC
+[11:28:44.022] [DEBUG] [serial] RX 原始字节 ×1 A0
+[11:28:44.023] [DEBUG] [serial] RX 原始字节 ×1 C6
+[11:28:44.025] [DEBUG] [serial] RX 原始字节 ×1 CC
+[11:28:44.026] [DEBUG] [serial] RX 原始字节 ×1 CC
+[11:28:44.029] [DEBUG] [serial] RX 原始字节 ×3 CC CC 96
+[11:28:44.030] [DEBUG] [serial] RX 原始字节 ×1 C6
+[11:28:44.031] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:44.032] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:44.034] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:44.035] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:44.035] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:44.036] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:44.037] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:44.039] [DEBUG] [serial] RX 原始字节 ×2 00 00
+[11:28:44.040] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:44.041] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:44.042] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:44.043] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:44.045] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:28:44.045] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:28:44.047] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:28:44.047] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:28:44.049] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:28:44.050] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:28:44.051] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:28:44.052] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:28:44.053] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:44.055] [DEBUG] [serial] RX 原始字节 ×2 00 00
+[11:28:44.056] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:44.057] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:44.058] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:44.059] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:44.060] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:44.061] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:44.062] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:44.063] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:44.064] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:28:44.065] [DEBUG] [serial] RX 原始字节 ×1 C3
+[11:28:44.066] [DEBUG] [serial] RX 原始字节 ×1 16
+[11:28:44.170] [DEBUG] [serial] E5 为数据帧前缀（同窗口），按数据帧处理
+[11:28:44.171] [INFO ] [serial] RX 数据帧 Nr=32 (0x20) {"hex":"68 5D 5D 68 00 E8 80 20 5C 6F 66 6F 6C 6F 43 74 4D 74 39 74 75 6F 72 6F 87 6F 39 74 4D 74 4D 74 6B 00 58 00 4B 00 48 00 4F 00 4E 00 53 00 4F 00 B6 CC B6 CC F5 CB 92 CC A0 C6 CC CC CC CC 96 C6 00 00 00 00 00 00 00 00 00 00 00 00 00 01 01 01 01 01 01 01 01 00 00 00 00 00 00 00 00 00 00 00 00 C3 16","len":99,"state":"Down=1030 idx=3 err=0 msgEnd=true msgLen=0"}
+[11:28:44.171] [DEBUG] [serial] 对话框命令完成（Nr=33）
+[11:29:39.983] [INFO ] [app] 点击 获取信息（主界面获取）
+[11:29:39.984] [INFO ] [serial] 开始主界面获取（Down=1005）
+[11:29:39.984] [INFO ] [serial] TX 报文 37 (0x25) {"hex":"68 04 04 68 00 09 80 25 AE 16","state":"Down=1005 idx=0 err=0 msgEnd=false msgLen=0"}
+[11:29:40.004] [DEBUG] [serial] RX 原始字节 ×1 E5
+[11:29:40.004] [DEBUG] [serial] RX 原始字节 ×1 68
+[11:29:40.005] [DEBUG] [serial] RX 原始字节 ×1 4C
+[11:29:40.009] [DEBUG] [serial] RX 原始字节 ×4 4C 68 00 28
+[11:29:40.010] [DEBUG] [serial] RX 原始字节 ×1 80
+[11:29:40.011] [DEBUG] [serial] RX 原始字节 ×1 24
+[11:29:40.012] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.013] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.014] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.015] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.017] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.018] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.019] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.020] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.021] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.022] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.023] [DEBUG] [serial] RX 原始字节 ×1 03
+[11:29:40.025] [DEBUG] [serial] RX 原始字节 ×2 00 00
+[11:29:40.026] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.027] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.028] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.029] [DEBUG] [serial] RX 原始字节 ×1 0A
+[11:29:40.033] [DEBUG] [serial] RX 原始字节 ×3 00 09 00
+[11:29:40.034] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.034] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.036] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.037] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.037] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.038] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.039] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.042] [DEBUG] [serial] RX 原始字节 ×2 00 05
+[11:29:40.045] [DEBUG] [serial] RX 原始字节 ×4 00 05 00 00
+[11:29:40.047] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.048] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.049] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.050] [DEBUG] [serial] RX 原始字节 ×1 FE
+[11:29:40.051] [DEBUG] [serial] RX 原始字节 ×1 FF
+[11:29:40.052] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.055] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.056] [DEBUG] [serial] RX 原始字节 ×2 00 00
+[11:29:40.057] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.059] [DEBUG] [serial] RX 原始字节 ×2 40 09
+[11:29:40.062] [DEBUG] [serial] RX 原始字节 ×3 00 09 00
+[11:29:40.062] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.063] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.064] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.065] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.067] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.068] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.069] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.070] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.071] [DEBUG] [serial] RX 原始字节 ×1 09
+[11:29:40.072] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.073] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.074] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.076] [DEBUG] [serial] RX 原始字节 ×2 05 00
+[11:29:40.077] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.080] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.081] [DEBUG] [serial] RX 原始字节 ×2 FE FF
+[11:29:40.081] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.083] [DEBUG] [serial] RX 原始字节 ×2 00 00
+[11:29:40.084] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.085] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.086] [DEBUG] [serial] RX 原始字节 ×1 40
+[11:29:40.087] [DEBUG] [serial] RX 原始字节 ×1 86
+[11:29:40.088] [DEBUG] [serial] RX 原始字节 ×1 16
+[11:29:40.190] [DEBUG] [serial] E5 为数据帧前缀（同窗口），按数据帧处理
+[11:29:40.190] [INFO ] [serial] RX 数据帧 Nr=36 (0x24) {"hex":"68 4C 4C 68 00 28 80 24 00 00 00 00 00 00 00 00 00 00 03 00 00 00 00 00 0A 00 09 00 00 00 00 00 00 00 00 00 05 00 05 00 00 00 00 00 FE FF 00 00 00 00 00 40 09 00 09 00 00 00 00 00 00 00 00 00 09 00 00 00 05 00 00 00 FE FF 00 00 00 00 00 40 86 16","len":82,"state":"Down=1005 idx=0 err=0 msgEnd=false msgLen=0"}
+[11:29:40.191] [INFO ] [serial] TX 报文 47 (0x2f) {"hex":"68 04 04 68 00 09 80 2F B8 16","state":"Down=1005 idx=1 err=0 msgEnd=false msgLen=0"}
+[11:29:40.209] [DEBUG] [serial] RX 原始字节 ×1 E5
+[11:29:40.210] [DEBUG] [serial] RX 原始字节 ×1 68
+[11:29:40.211] [DEBUG] [serial] RX 原始字节 ×1 1E
+[11:29:40.212] [DEBUG] [serial] RX 原始字节 ×1 1E
+[11:29:40.213] [DEBUG] [serial] RX 原始字节 ×1 68
+[11:29:40.214] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.215] [DEBUG] [serial] RX 原始字节 ×1 48
+[11:29:40.216] [DEBUG] [serial] RX 原始字节 ×1 80
+[11:29:40.217] [DEBUG] [serial] RX 原始字节 ×1 30
+[11:29:40.218] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.219] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.220] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:40.221] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.222] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.224] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.225] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:40.226] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.227] [DEBUG] [serial] RX 原始字节 ×1 95
+[11:29:40.228] [DEBUG] [serial] RX 原始字节 ×1 11
+[11:29:40.229] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.230] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.231] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.232] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.233] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:40.234] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.235] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.236] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.237] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:40.238] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.239] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.240] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.241] [DEBUG] [serial] RX 原始字节 ×1 95
+[11:29:40.242] [DEBUG] [serial] RX 原始字节 ×1 11
+[11:29:40.243] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.244] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.245] [DEBUG] [serial] RX 原始字节 ×1 48
+[11:29:40.246] [DEBUG] [serial] RX 原始字节 ×1 16
+[11:29:40.349] [DEBUG] [serial] E5 为数据帧前缀（同窗口），按数据帧处理
+[11:29:40.349] [INFO ] [serial] RX 数据帧 Nr=48 (0x30) {"hex":"68 1E 1E 68 00 48 80 30 00 00 01 00 00 00 01 00 95 11 00 00 00 00 01 00 00 00 01 00 00 00 95 11 00 00 48 16","len":36,"state":"Down=1005 idx=1 err=0 msgEnd=false msgLen=0"}
+[11:29:40.350] [INFO ] [serial] TX 报文 47 (0x2f) {"hex":"68 04 04 68 00 09 80 2F B8 16","state":"Down=1005 idx=2 err=0 msgEnd=false msgLen=0"}
+[11:29:40.367] [DEBUG] [serial] RX 原始字节 ×1 E5
+[11:29:40.368] [DEBUG] [serial] RX 原始字节 ×1 68
+[11:29:40.369] [DEBUG] [serial] RX 原始字节 ×1 1E
+[11:29:40.370] [DEBUG] [serial] RX 原始字节 ×1 1E
+[11:29:40.371] [DEBUG] [serial] RX 原始字节 ×1 68
+[11:29:40.372] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.373] [DEBUG] [serial] RX 原始字节 ×1 68
+[11:29:40.374] [DEBUG] [serial] RX 原始字节 ×1 80
+[11:29:40.375] [DEBUG] [serial] RX 原始字节 ×1 30
+[11:29:40.376] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.377] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.378] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:40.379] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.381] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.382] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.383] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:40.384] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.385] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:40.386] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.387] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.388] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.389] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.390] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.391] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:40.392] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.393] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.394] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.395] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:40.396] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.397] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.398] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.399] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:40.400] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.401] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.402] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:40.403] [DEBUG] [serial] RX 原始字节 ×1 1E
+[11:29:40.404] [DEBUG] [serial] RX 原始字节 ×1 16
+[11:29:40.515] [DEBUG] [serial] E5 为数据帧前缀（同窗口），按数据帧处理
+[11:29:40.515] [INFO ] [serial] RX 数据帧 Nr=48 (0x30) {"hex":"68 1E 1E 68 00 68 80 30 00 00 01 00 00 00 01 00 01 00 00 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 1E 16","len":36,"state":"Down=1005 idx=2 err=0 msgEnd=false msgLen=0"}
+[11:29:40.515] [INFO ] [serial] TX 报文 49 (0x31) {"hex":"68 04 04 68 00 09 80 31 BA 16","state":"Down=1005 idx=3 err=0 msgEnd=false msgLen=0"}
+[11:29:40.533] [DEBUG] [serial] RX 原始字节 ×1 E5
+[11:29:40.647] [INFO ] [serial] RX E5 短应答 {"state":"Down=1005 idx=3 err=0 msgEnd=false msgLen=0"}
+[11:29:40.648] [INFO ] [serial] 获取期收到 E5：设备确认命令且无数据帧可回，结束获取
+[11:29:40.648] [INFO ] [serial] 主界面获取结束 {"state":"Down=1005 idx=3 err=0 msgEnd=true msgLen=0","ADCacul":76,"BaseAngle":30,"Message":null}
+[11:29:41.908] [INFO ] [app] 点击 获取信息（主界面获取）
+[11:29:41.909] [INFO ] [serial] 开始主界面获取（Down=1005）
+[11:29:41.910] [INFO ] [serial] TX 报文 37 (0x25) {"hex":"68 04 04 68 00 09 80 25 AE 16","state":"Down=1005 idx=0 err=0 msgEnd=false msgLen=0"}
+[11:29:41.929] [DEBUG] [serial] RX 原始字节 ×4 E5 68 4C 4C
+[11:29:41.930] [DEBUG] [serial] RX 原始字节 ×1 68
+[11:29:41.931] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.932] [DEBUG] [serial] RX 原始字节 ×1 88
+[11:29:41.933] [DEBUG] [serial] RX 原始字节 ×1 80
+[11:29:41.934] [DEBUG] [serial] RX 原始字节 ×1 24
+[11:29:41.935] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.936] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.938] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.938] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.940] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.943] [DEBUG] [serial] RX 原始字节 ×3 00 00 00
+[11:29:41.944] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.945] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.945] [DEBUG] [serial] RX 原始字节 ×1 03
+[11:29:41.947] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.948] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.949] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.950] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.951] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.952] [DEBUG] [serial] RX 原始字节 ×1 0A
+[11:29:41.953] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.954] [DEBUG] [serial] RX 原始字节 ×1 09
+[11:29:41.955] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.958] [DEBUG] [serial] RX 原始字节 ×3 00 00 00
+[11:29:41.959] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.960] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.961] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.962] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.963] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.965] [DEBUG] [serial] RX 原始字节 ×1 05
+[11:29:41.965] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.967] [DEBUG] [serial] RX 原始字节 ×1 05
+[11:29:41.967] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.969] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.970] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.971] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.972] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.975] [DEBUG] [serial] RX 原始字节 ×3 FE FF 00
+[11:29:41.976] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.977] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.978] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.979] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.980] [DEBUG] [serial] RX 原始字节 ×1 40
+[11:29:41.981] [DEBUG] [serial] RX 原始字节 ×1 09
+[11:29:41.982] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.983] [DEBUG] [serial] RX 原始字节 ×1 09
+[11:29:41.985] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.985] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.987] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.987] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.988] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.992] [DEBUG] [serial] RX 原始字节 ×3 00 00 00
+[11:29:41.992] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.994] [DEBUG] [serial] RX 原始字节 ×1 09
+[11:29:41.995] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.996] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.997] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:41.998] [DEBUG] [serial] RX 原始字节 ×1 07
+[11:29:41.999] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.000] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.001] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.002] [DEBUG] [serial] RX 原始字节 ×1 FE
+[11:29:42.003] [DEBUG] [serial] RX 原始字节 ×1 FF
+[11:29:42.004] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.005] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.006] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.009] [DEBUG] [serial] RX 原始字节 ×3 00 00 40
+[11:29:42.010] [DEBUG] [serial] RX 原始字节 ×1 E8
+[11:29:42.012] [DEBUG] [serial] RX 原始字节 ×1 16
+[11:29:42.115] [DEBUG] [serial] E5 为数据帧前缀（同窗口），按数据帧处理
+[11:29:42.115] [INFO ] [serial] RX 数据帧 Nr=36 (0x24) {"hex":"68 4C 4C 68 00 88 80 24 00 00 00 00 00 00 00 00 00 00 03 00 00 00 00 00 0A 00 09 00 00 00 00 00 00 00 00 00 05 00 05 00 00 00 00 00 FE FF 00 00 00 00 00 40 09 00 09 00 00 00 00 00 00 00 00 00 09 00 00 00 07 00 00 00 FE FF 00 00 00 00 00 40 E8 16","len":82,"state":"Down=1005 idx=0 err=0 msgEnd=false msgLen=0"}
+[11:29:42.116] [INFO ] [serial] TX 报文 47 (0x2f) {"hex":"68 04 04 68 00 09 80 2F B8 16","state":"Down=1005 idx=1 err=0 msgEnd=false msgLen=0"}
+[11:29:42.132] [DEBUG] [serial] RX 原始字节 ×1 E5
+[11:29:42.133] [DEBUG] [serial] RX 原始字节 ×1 68
+[11:29:42.134] [DEBUG] [serial] RX 原始字节 ×1 1E
+[11:29:42.135] [DEBUG] [serial] RX 原始字节 ×1 1E
+[11:29:42.136] [DEBUG] [serial] RX 原始字节 ×1 68
+[11:29:42.137] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.138] [DEBUG] [serial] RX 原始字节 ×1 A8
+[11:29:42.139] [DEBUG] [serial] RX 原始字节 ×1 80
+[11:29:42.140] [DEBUG] [serial] RX 原始字节 ×1 30
+[11:29:42.141] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.142] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.143] [DEBUG] [serial] RX 原始字节 ×1 95
+[11:29:42.144] [DEBUG] [serial] RX 原始字节 ×1 11
+[11:29:42.146] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.146] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.148] [DEBUG] [serial] RX 原始字节 ×1 95
+[11:29:42.149] [DEBUG] [serial] RX 原始字节 ×1 11
+[11:29:42.150] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:42.151] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.152] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.153] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.154] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.155] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.156] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:42.157] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.158] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.159] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.160] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:42.161] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.162] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.163] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.164] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:42.165] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.166] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.167] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.168] [DEBUG] [serial] RX 原始字节 ×1 A8
+[11:29:42.169] [DEBUG] [serial] RX 原始字节 ×1 16
+[11:29:42.281] [DEBUG] [serial] E5 为数据帧前缀（同窗口），按数据帧处理
+[11:29:42.282] [INFO ] [serial] RX 数据帧 Nr=48 (0x30) {"hex":"68 1E 1E 68 00 A8 80 30 00 00 95 11 00 00 95 11 01 00 00 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 A8 16","len":36,"state":"Down=1005 idx=1 err=0 msgEnd=false msgLen=0"}
+[11:29:42.282] [INFO ] [serial] TX 报文 47 (0x2f) {"hex":"68 04 04 68 00 09 80 2F B8 16","state":"Down=1005 idx=2 err=0 msgEnd=false msgLen=0"}
+[11:29:42.298] [DEBUG] [serial] RX 原始字节 ×1 E5
+[11:29:42.299] [DEBUG] [serial] RX 原始字节 ×1 68
+[11:29:42.300] [DEBUG] [serial] RX 原始字节 ×1 1E
+[11:29:42.301] [DEBUG] [serial] RX 原始字节 ×1 1E
+[11:29:42.302] [DEBUG] [serial] RX 原始字节 ×1 68
+[11:29:42.303] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.304] [DEBUG] [serial] RX 原始字节 ×1 C8
+[11:29:42.305] [DEBUG] [serial] RX 原始字节 ×1 80
+[11:29:42.306] [DEBUG] [serial] RX 原始字节 ×1 30
+[11:29:42.307] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.308] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.310] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:42.310] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.312] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.312] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.314] [DEBUG] [serial] RX 原始字节 ×1 0D
+[11:29:42.314] [DEBUG] [serial] RX 原始字节 ×1 7B
+[11:29:42.316] [DEBUG] [serial] RX 原始字节 ×1 0D
+[11:29:42.317] [DEBUG] [serial] RX 原始字节 ×1 7B
+[11:29:42.318] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.319] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.320] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.321] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.322] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:42.323] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.324] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.325] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.326] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:42.327] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.328] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.329] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.330] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:42.331] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.332] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.333] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:42.334] [DEBUG] [serial] RX 原始字节 ×1 8C
+[11:29:42.335] [DEBUG] [serial] RX 原始字节 ×1 16
+[11:29:42.448] [DEBUG] [serial] E5 为数据帧前缀（同窗口），按数据帧处理
+[11:29:42.449] [INFO ] [serial] RX 数据帧 Nr=48 (0x30) {"hex":"68 1E 1E 68 00 C8 80 30 00 00 01 00 00 00 0D 7B 0D 7B 00 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 8C 16","len":36,"state":"Down=1005 idx=2 err=0 msgEnd=false msgLen=0"}
+[11:29:42.449] [INFO ] [serial] TX 报文 49 (0x31) {"hex":"68 04 04 68 00 09 80 31 BA 16","state":"Down=1005 idx=3 err=0 msgEnd=false msgLen=0"}
+[11:29:42.464] [DEBUG] [serial] RX 原始字节 ×1 E5
+[11:29:42.567] [INFO ] [serial] RX E5 短应答 {"state":"Down=1005 idx=3 err=0 msgEnd=false msgLen=0"}
+[11:29:42.567] [INFO ] [serial] 获取期收到 E5：设备确认命令且无数据帧可回，结束获取
+[11:29:42.568] [INFO ] [serial] 主界面获取结束 {"state":"Down=1005 idx=3 err=0 msgEnd=true msgLen=0","ADCacul":76,"BaseAngle":30,"Message":null}
+[11:29:44.283] [INFO ] [app] 点击 获取信息（主界面获取）
+[11:29:44.284] [INFO ] [serial] 开始主界面获取（Down=1005）
+[11:29:44.285] [INFO ] [serial] TX 报文 37 (0x25) {"hex":"68 04 04 68 00 09 80 25 AE 16","state":"Down=1005 idx=0 err=0 msgEnd=false msgLen=0"}
+[11:29:44.306] [DEBUG] [serial] RX 原始字节 ×1 E5
+[11:29:44.307] [DEBUG] [serial] RX 原始字节 ×1 68
+[11:29:44.308] [DEBUG] [serial] RX 原始字节 ×2 4C 4C
+[11:29:44.311] [DEBUG] [serial] RX 原始字节 ×3 68 00 E8
+[11:29:44.312] [DEBUG] [serial] RX 原始字节 ×1 80
+[11:29:44.313] [DEBUG] [serial] RX 原始字节 ×1 24
+[11:29:44.314] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.315] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.316] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.317] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.318] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.320] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.320] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.322] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.322] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.326] [DEBUG] [serial] RX 原始字节 ×2 00 00
+[11:29:44.326] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.327] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.328] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.329] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.330] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.331] [DEBUG] [serial] RX 原始字节 ×1 0A
+[11:29:44.332] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.333] [DEBUG] [serial] RX 原始字节 ×1 09
+[11:29:44.334] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.335] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.338] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.339] [DEBUG] [serial] RX 原始字节 ×3 00 00 00
+[11:29:44.340] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.344] [DEBUG] [serial] RX 原始字节 ×3 00 00 04
+[11:29:44.345] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.345] [DEBUG] [serial] RX 原始字节 ×1 05
+[11:29:44.347] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.348] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.349] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.350] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.351] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.352] [DEBUG] [serial] RX 原始字节 ×1 FE
+[11:29:44.353] [DEBUG] [serial] RX 原始字节 ×1 FF
+[11:29:44.354] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.357] [DEBUG] [serial] RX 原始字节 ×3 00 00 00
+[11:29:44.359] [DEBUG] [serial] RX 原始字节 ×2 00 40
+[11:29:44.362] [DEBUG] [serial] RX 原始字节 ×2 09 00
+[11:29:44.362] [DEBUG] [serial] RX 原始字节 ×1 07
+[11:29:44.363] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.364] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.365] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.366] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.367] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.368] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.369] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.371] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.371] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.373] [DEBUG] [serial] RX 原始字节 ×1 07
+[11:29:44.374] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.376] [DEBUG] [serial] RX 原始字节 ×2 00 00
+[11:29:44.377] [DEBUG] [serial] RX 原始字节 ×1 07
+[11:29:44.378] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.379] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.380] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.381] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.382] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.385] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.386] [DEBUG] [serial] RX 原始字节 ×2 00 00
+[11:29:44.386] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.387] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.388] [DEBUG] [serial] RX 原始字节 ×1 40
+[11:29:44.390] [DEBUG] [serial] RX 原始字节 ×1 43
+[11:29:44.390] [DEBUG] [serial] RX 原始字节 ×1 16
+[11:29:44.506] [DEBUG] [serial] E5 为数据帧前缀（同窗口），按数据帧处理
+[11:29:44.507] [INFO ] [serial] RX 数据帧 Nr=36 (0x24) {"hex":"68 4C 4C 68 00 E8 80 24 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0A 00 09 00 00 00 00 00 00 00 00 00 04 00 05 00 00 00 00 00 FE FF 00 00 00 00 00 40 09 00 07 00 00 00 00 00 00 00 00 00 07 00 00 00 07 00 00 00 00 00 00 00 00 00 00 40 43 16","len":82,"state":"Down=1005 idx=0 err=0 msgEnd=false msgLen=0"}
+[11:29:44.507] [INFO ] [serial] TX 报文 47 (0x2f) {"hex":"68 04 04 68 00 09 80 2F B8 16","state":"Down=1005 idx=1 err=0 msgEnd=false msgLen=0"}
+[11:29:44.527] [DEBUG] [serial] RX 原始字节 ×1 E5
+[11:29:44.528] [DEBUG] [serial] RX 原始字节 ×1 68
+[11:29:44.529] [DEBUG] [serial] RX 原始字节 ×1 1E
+[11:29:44.530] [DEBUG] [serial] RX 原始字节 ×1 1E
+[11:29:44.531] [DEBUG] [serial] RX 原始字节 ×1 68
+[11:29:44.532] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.533] [DEBUG] [serial] RX 原始字节 ×1 28
+[11:29:44.534] [DEBUG] [serial] RX 原始字节 ×1 80
+[11:29:44.535] [DEBUG] [serial] RX 原始字节 ×1 30
+[11:29:44.536] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.537] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.538] [DEBUG] [serial] RX 原始字节 ×1 95
+[11:29:44.539] [DEBUG] [serial] RX 原始字节 ×1 11
+[11:29:44.540] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.541] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.542] [DEBUG] [serial] RX 原始字节 ×1 95
+[11:29:44.543] [DEBUG] [serial] RX 原始字节 ×1 11
+[11:29:44.545] [DEBUG] [serial] RX 原始字节 ×1 61
+[11:29:44.546] [DEBUG] [serial] RX 原始字节 ×1 0A
+[11:29:44.547] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.548] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.549] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.550] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.551] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:44.552] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.553] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.554] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.555] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:44.556] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.557] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.558] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.559] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:44.560] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.561] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.562] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.563] [DEBUG] [serial] RX 原始字节 ×1 92
+[11:29:44.564] [DEBUG] [serial] RX 原始字节 ×1 16
+[11:29:44.676] [DEBUG] [serial] E5 为数据帧前缀（同窗口），按数据帧处理
+[11:29:44.676] [INFO ] [serial] RX 数据帧 Nr=48 (0x30) {"hex":"68 1E 1E 68 00 28 80 30 00 00 95 11 00 00 95 11 61 0A 00 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 92 16","len":36,"state":"Down=1005 idx=1 err=0 msgEnd=false msgLen=0"}
+[11:29:44.677] [INFO ] [serial] TX 报文 47 (0x2f) {"hex":"68 04 04 68 00 09 80 2F B8 16","state":"Down=1005 idx=2 err=0 msgEnd=false msgLen=0"}
+[11:29:44.693] [DEBUG] [serial] RX 原始字节 ×1 E5
+[11:29:44.694] [DEBUG] [serial] RX 原始字节 ×1 68
+[11:29:44.695] [DEBUG] [serial] RX 原始字节 ×1 1E
+[11:29:44.696] [DEBUG] [serial] RX 原始字节 ×1 1E
+[11:29:44.697] [DEBUG] [serial] RX 原始字节 ×1 68
+[11:29:44.698] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.699] [DEBUG] [serial] RX 原始字节 ×1 48
+[11:29:44.700] [DEBUG] [serial] RX 原始字节 ×1 80
+[11:29:44.701] [DEBUG] [serial] RX 原始字节 ×1 30
+[11:29:44.702] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.703] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.704] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:44.705] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.706] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.709] [DEBUG] [serial] RX 原始字节 ×2 00 01
+[11:29:44.709] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.711] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:44.712] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.713] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:44.714] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.715] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.716] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.717] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:44.718] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.719] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.720] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.721] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:44.722] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.723] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.726] [DEBUG] [serial] RX 原始字节 ×3 00 01 00
+[11:29:44.727] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.728] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:44.729] [DEBUG] [serial] RX 原始字节 ×1 FF
+[11:29:44.730] [DEBUG] [serial] RX 原始字节 ×1 16
+[11:29:44.835] [DEBUG] [serial] E5 为数据帧前缀（同窗口），按数据帧处理
+[11:29:44.836] [INFO ] [serial] RX 数据帧 Nr=48 (0x30) {"hex":"68 1E 1E 68 00 48 80 30 00 00 01 00 00 00 01 00 01 00 01 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 FF 16","len":36,"state":"Down=1005 idx=2 err=0 msgEnd=false msgLen=0"}
+[11:29:44.836] [INFO ] [serial] TX 报文 49 (0x31) {"hex":"68 04 04 68 00 09 80 31 BA 16","state":"Down=1005 idx=3 err=0 msgEnd=false msgLen=0"}
+[11:29:44.851] [DEBUG] [serial] RX 原始字节 ×1 E5
+[11:29:44.958] [INFO ] [serial] RX E5 短应答 {"state":"Down=1005 idx=3 err=0 msgEnd=false msgLen=0"}
+[11:29:44.958] [INFO ] [serial] 获取期收到 E5：设备确认命令且无数据帧可回，结束获取
+[11:29:44.959] [INFO ] [serial] 主界面获取结束 {"state":"Down=1005 idx=3 err=0 msgEnd=true msgLen=0","ADCacul":76,"BaseAngle":30,"Message":null}
+[11:29:52.394] [INFO ] [app] 点击 获取信息（主界面获取）
+[11:29:52.395] [INFO ] [serial] 开始主界面获取（Down=1005）
+[11:29:52.396] [INFO ] [serial] TX 报文 37 (0x25) {"hex":"68 04 04 68 00 09 80 25 AE 16","state":"Down=1005 idx=0 err=0 msgEnd=false msgLen=0"}
+[11:29:52.412] [DEBUG] [serial] RX 原始字节 ×1 E5
+[11:29:52.413] [DEBUG] [serial] RX 原始字节 ×1 68
+[11:29:52.414] [DEBUG] [serial] RX 原始字节 ×1 4C
+[11:29:52.415] [DEBUG] [serial] RX 原始字节 ×1 4C
+[11:29:52.416] [DEBUG] [serial] RX 原始字节 ×1 68
+[11:29:52.417] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.418] [DEBUG] [serial] RX 原始字节 ×1 68
+[11:29:52.419] [DEBUG] [serial] RX 原始字节 ×1 80
+[11:29:52.421] [DEBUG] [serial] RX 原始字节 ×1 24
+[11:29:52.421] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.422] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.423] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.425] [DEBUG] [serial] RX 原始字节 ×2 00 00
+[11:29:52.426] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.427] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.428] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.430] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.431] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.432] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.433] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.434] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.435] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.436] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.437] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.438] [DEBUG] [serial] RX 原始字节 ×1 0A
+[11:29:52.439] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.440] [DEBUG] [serial] RX 原始字节 ×1 09
+[11:29:52.441] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.443] [DEBUG] [serial] RX 原始字节 ×2 00 00
+[11:29:52.444] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.445] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.446] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.447] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.448] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.449] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.450] [DEBUG] [serial] RX 原始字节 ×1 05
+[11:29:52.452] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.452] [DEBUG] [serial] RX 原始字节 ×1 05
+[11:29:52.454] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.455] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.456] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.457] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.459] [DEBUG] [serial] RX 原始字节 ×2 00 FD
+[11:29:52.460] [DEBUG] [serial] RX 原始字节 ×1 FF
+[11:29:52.461] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.462] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.463] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.464] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.465] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.466] [DEBUG] [serial] RX 原始字节 ×1 40
+[11:29:52.467] [DEBUG] [serial] RX 原始字节 ×1 09
+[11:29:52.468] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.469] [DEBUG] [serial] RX 原始字节 ×1 07
+[11:29:52.471] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.471] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.473] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.473] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.475] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.476] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.476] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.478] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.479] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.480] [DEBUG] [serial] RX 原始字节 ×1 07
+[11:29:52.481] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.482] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.483] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.484] [DEBUG] [serial] RX 原始字节 ×1 05
+[11:29:52.485] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.486] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.487] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.488] [DEBUG] [serial] RX 原始字节 ×1 FE
+[11:29:52.489] [DEBUG] [serial] RX 原始字节 ×1 FF
+[11:29:52.490] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.492] [DEBUG] [serial] RX 原始字节 ×2 00 00
+[11:29:52.493] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.494] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.495] [DEBUG] [serial] RX 原始字节 ×1 40
+[11:29:52.496] [DEBUG] [serial] RX 原始字节 ×1 BE
+[11:29:52.497] [DEBUG] [serial] RX 原始字节 ×1 16
+[11:29:52.598] [DEBUG] [serial] E5 为数据帧前缀（同窗口），按数据帧处理
+[11:29:52.599] [INFO ] [serial] RX 数据帧 Nr=36 (0x24) {"hex":"68 4C 4C 68 00 68 80 24 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0A 00 09 00 00 00 00 00 00 00 00 00 05 00 05 00 00 00 00 00 FD FF 00 00 00 00 00 40 09 00 07 00 00 00 00 00 00 00 00 00 07 00 00 00 05 00 00 00 FE FF 00 00 00 00 00 40 BE 16","len":82,"state":"Down=1005 idx=0 err=0 msgEnd=false msgLen=0"}
+[11:29:52.599] [INFO ] [serial] TX 报文 47 (0x2f) {"hex":"68 04 04 68 00 09 80 2F B8 16","state":"Down=1005 idx=1 err=0 msgEnd=false msgLen=0"}
+[11:29:52.618] [DEBUG] [serial] RX 原始字节 ×1 E5
+[11:29:52.619] [DEBUG] [serial] RX 原始字节 ×1 68
+[11:29:52.620] [DEBUG] [serial] RX 原始字节 ×1 1E
+[11:29:52.621] [DEBUG] [serial] RX 原始字节 ×1 1E
+[11:29:52.622] [DEBUG] [serial] RX 原始字节 ×1 68
+[11:29:52.623] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.626] [DEBUG] [serial] RX 原始字节 ×1 88
+[11:29:52.626] [DEBUG] [serial] RX 原始字节 ×2 80 30
+[11:29:52.627] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.628] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.629] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:52.630] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.631] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.633] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.633] [DEBUG] [serial] RX 原始字节 ×1 95
+[11:29:52.635] [DEBUG] [serial] RX 原始字节 ×1 11
+[11:29:52.636] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:52.637] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.637] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.639] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.640] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.641] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.642] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:52.643] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.644] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.645] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.646] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:52.647] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.648] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.649] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.650] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:52.651] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.652] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.653] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.654] [DEBUG] [serial] RX 原始字节 ×1 E3
+[11:29:52.655] [DEBUG] [serial] RX 原始字节 ×1 16
+[11:29:52.763] [DEBUG] [serial] E5 为数据帧前缀（同窗口），按数据帧处理
+[11:29:52.764] [INFO ] [serial] RX 数据帧 Nr=48 (0x30) {"hex":"68 1E 1E 68 00 88 80 30 00 00 01 00 00 00 95 11 01 00 00 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 E3 16","len":36,"state":"Down=1005 idx=1 err=0 msgEnd=false msgLen=0"}
+[11:29:52.764] [INFO ] [serial] TX 报文 47 (0x2f) {"hex":"68 04 04 68 00 09 80 2F B8 16","state":"Down=1005 idx=2 err=0 msgEnd=false msgLen=0"}
+[11:29:52.784] [DEBUG] [serial] RX 原始字节 ×1 E5
+[11:29:52.785] [DEBUG] [serial] RX 原始字节 ×1 68
+[11:29:52.786] [DEBUG] [serial] RX 原始字节 ×1 1E
+[11:29:52.787] [DEBUG] [serial] RX 原始字节 ×1 1E
+[11:29:52.788] [DEBUG] [serial] RX 原始字节 ×1 68
+[11:29:52.789] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.790] [DEBUG] [serial] RX 原始字节 ×1 A8
+[11:29:52.791] [DEBUG] [serial] RX 原始字节 ×1 80
+[11:29:52.792] [DEBUG] [serial] RX 原始字节 ×1 30
+[11:29:52.793] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.794] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.795] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:52.796] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.797] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.798] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.799] [DEBUG] [serial] RX 原始字节 ×1 95
+[11:29:52.800] [DEBUG] [serial] RX 原始字节 ×1 11
+[11:29:52.802] [DEBUG] [serial] RX 原始字节 ×1 95
+[11:29:52.803] [DEBUG] [serial] RX 原始字节 ×1 11
+[11:29:52.804] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.805] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.806] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.807] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.808] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:52.809] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.810] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.811] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.812] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:52.813] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.814] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.815] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.816] [DEBUG] [serial] RX 原始字节 ×1 01
+[11:29:52.817] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.818] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.819] [DEBUG] [serial] RX 原始字节 ×1 00
+[11:29:52.820] [DEBUG] [serial] RX 原始字节 ×1 A8
+[11:29:52.821] [DEBUG] [serial] RX 原始字节 ×1 16
+[11:29:52.933] [DEBUG] [serial] E5 为数据帧前缀（同窗口），按数据帧处理
+[11:29:52.933] [INFO ] [serial] RX 数据帧 Nr=48 (0x30) {"hex":"68 1E 1E 68 00 A8 80 30 00 00 01 00 00 00 95 11 95 11 00 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 A8 16","len":36,"state":"Down=1005 idx=2 err=0 msgEnd=false msgLen=0"}
+[11:29:52.934] [INFO ] [serial] TX 报文 49 (0x31) {"hex":"68 04 04 68 00 09 80 31 BA 16","state":"Down=1005 idx=3 err=0 msgEnd=false msgLen=0"}
+[11:29:52.950] [DEBUG] [serial] RX 原始字节 ×1 E5
+[11:29:53.057] [INFO ] [serial] RX E5 短应答 {"state":"Down=1005 idx=3 err=0 msgEnd=false msgLen=0"}
+[11:29:53.058] [INFO ] [serial] 获取期收到 E5：设备确认命令且无数据帧可回，结束获取
+[11:29:53.059] [INFO ] [serial] 主界面获取结束 {"state":"Down=1005 idx=3 err=0 msgEnd=true msgLen=0","ADCacul":76,"BaseAngle":30,"Message":null}

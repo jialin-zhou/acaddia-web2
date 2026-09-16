@@ -1,0 +1,658 @@
+发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+serial.js:458 通信超时（3333ms）
+(anonymous) @ serial.js:458
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+serial.js:458 通信超时（3333ms）
+(anonymous) @ serial.js:458
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+serial.js:458 通信超时（3333ms）
+(anonymous) @ serial.js:458
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+serial.js:458 通信超时（3333ms）
+(anonymous) @ serial.js:458
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+serial.js:458 通信超时（3333ms）
+(anonymous) @ serial.js:458
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+serial.js:458 通信超时（3333ms）
+(anonymous) @ serial.js:458
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+index.html:1 Unsafe attempt to load URL file:///D:/ProgramData/GitHub/acaddia-web2/app/index.html from frame with URL file:///D:/ProgramData/GitHub/acaddia-web2/app/index.html. 'file:' URLs are treated as unique security origins.
+
+serial.js:458 通信超时（3333ms）
+(anonymous) @ serial.js:458
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+serial.js:458 通信超时（3333ms）
+(anonymous) @ serial.js:458
+setTimeout
+startStageTimer @ serial.js:457
+chainSend @ serial.js:290
+await in chainSend
+stepFetchChain @ serial.js:374
+onDataFrame @ serial.js:190
+await in onDataFrame
+processBatch @ serial.js:146
+(anonymous) @ serial.js:116
+setTimeout
+readLoop @ serial.js:113
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+serial.js:458 通信超时（3333ms）
+(anonymous) @ serial.js:458
+setTimeout
+startStageTimer @ serial.js:457
+chainSend @ serial.js:290
+await in chainSend
+stepFetchChain @ serial.js:374
+onDataFrame @ serial.js:190
+await in onDataFrame
+processBatch @ serial.js:146
+(anonymous) @ serial.js:116
+setTimeout
+readLoop @ serial.js:113
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+serial.js:458 通信超时（3333ms）
+(anonymous) @ serial.js:458
+setTimeout
+startStageTimer @ serial.js:457
+chainSend @ serial.js:290
+await in chainSend
+stepFetchChain @ serial.js:374
+onDataFrame @ serial.js:190
+await in onDataFrame
+processBatch @ serial.js:146
+(anonymous) @ serial.js:116
+setTimeout
+readLoop @ serial.js:113
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+serial.js:458 通信超时（3333ms）
+(anonymous) @ serial.js:458
+setTimeout
+startStageTimer @ serial.js:457
+chainSend @ serial.js:290
+await in chainSend
+stepFetchChain @ serial.js:374
+onDataFrame @ serial.js:190
+await in onDataFrame
+processBatch @ serial.js:146
+(anonymous) @ serial.js:116
+setTimeout
+readLoop @ serial.js:113
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+serial.js:458 通信超时（3333ms）
+(anonymous) @ serial.js:458
+setTimeout
+startStageTimer @ serial.js:457
+chainSend @ serial.js:290
+await in chainSend
+stepFetchChain @ serial.js:374
+onDataFrame @ serial.js:190
+await in onDataFrame
+processBatch @ serial.js:146
+(anonymous) @ serial.js:116
+setTimeout
+readLoop @ serial.js:113
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+serial.js:458 通信超时（3333ms）
+(anonymous) @ serial.js:458
+setTimeout
+startStageTimer @ serial.js:457
+chainSend @ serial.js:290
+await in chainSend
+stepFetchChain @ serial.js:374
+onDataFrame @ serial.js:190
+await in onDataFrame
+processBatch @ serial.js:146
+(anonymous) @ serial.js:116
+setTimeout
+readLoop @ serial.js:113
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+serial.js:458 通信超时（3333ms）
+(anonymous) @ serial.js:458
+setTimeout
+startStageTimer @ serial.js:457
+chainSend @ serial.js:290
+await in chainSend
+stepFetchChain @ serial.js:374
+onDataFrame @ serial.js:190
+await in onDataFrame
+processBatch @ serial.js:146
+(anonymous) @ serial.js:116
+setTimeout
+readLoop @ serial.js:113
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+serial.js:458 通信超时（3333ms）
+(anonymous) @ serial.js:458
+setTimeout
+startStageTimer @ serial.js:457
+chainSend @ serial.js:290
+await in chainSend
+stepFetchChain @ serial.js:374
+onDataFrame @ serial.js:190
+await in onDataFrame
+processBatch @ serial.js:146
+(anonymous) @ serial.js:116
+setTimeout
+readLoop @ serial.js:113
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+serial.js:458 通信超时（3333ms）
+(anonymous) @ serial.js:458
+setTimeout
+startStageTimer @ serial.js:457
+chainSend @ serial.js:290
+await in chainSend
+stepFetchChain @ serial.js:374
+onDataFrame @ serial.js:190
+await in onDataFrame
+processBatch @ serial.js:146
+(anonymous) @ serial.js:116
+setTimeout
+readLoop @ serial.js:113
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+serial.js:458 通信超时（3333ms）
+(anonymous) @ serial.js:458
+setTimeout
+startStageTimer @ serial.js:457
+chainSend @ serial.js:290
+await in chainSend
+stepFetchChain @ serial.js:374
+onDataFrame @ serial.js:190
+await in onDataFrame
+processBatch @ serial.js:146
+(anonymous) @ serial.js:116
+setTimeout
+readLoop @ serial.js:113
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+serial.js:458 通信超时（3333ms）
+(anonymous) @ serial.js:458
+setTimeout
+startStageTimer @ serial.js:457
+chainSend @ serial.js:290
+await in chainSend
+stepFetchChain @ serial.js:374
+onDataFrame @ serial.js:190
+await in onDataFrame
+processBatch @ serial.js:146
+(anonymous) @ serial.js:116
+setTimeout
+readLoop @ serial.js:113
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+serial.js:458 通信超时（3333ms）
+(anonymous) @ serial.js:458
+setTimeout
+startStageTimer @ serial.js:457
+chainSend @ serial.js:290
+await in chainSend
+stepFetchChain @ serial.js:374
+onDataFrame @ serial.js:190
+await in onDataFrame
+processBatch @ serial.js:146
+(anonymous) @ serial.js:116
+setTimeout
+readLoop @ serial.js:113
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+serial.js:458 通信超时（3333ms）
+(anonymous) @ serial.js:458
+setTimeout
+startStageTimer @ serial.js:457
+chainSend @ serial.js:290
+await in chainSend
+stepFetchChain @ serial.js:374
+onDataFrame @ serial.js:190
+await in onDataFrame
+processBatch @ serial.js:146
+(anonymous) @ serial.js:116
+setTimeout
+readLoop @ serial.js:113
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+serial.js:458 通信超时（3333ms）
+(anonymous) @ serial.js:458
+setTimeout
+startStageTimer @ serial.js:457
+chainSend @ serial.js:290
+await in chainSend
+stepFetchChain @ serial.js:374
+onDataFrame @ serial.js:190
+await in onDataFrame
+processBatch @ serial.js:146
+(anonymous) @ serial.js:116
+setTimeout
+readLoop @ serial.js:113
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+serial.js:458 通信超时（3333ms）
+(anonymous) @ serial.js:458
+setTimeout
+startStageTimer @ serial.js:457
+chainSend @ serial.js:290
+await in chainSend
+stepFetchChain @ serial.js:374
+onDataFrame @ serial.js:190
+await in onDataFrame
+processBatch @ serial.js:146
+(anonymous) @ serial.js:116
+setTimeout
+readLoop @ serial.js:113
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+serial.js:458 通信超时（3333ms）
+(anonymous) @ serial.js:458
+setTimeout
+startStageTimer @ serial.js:457
+chainSend @ serial.js:290
+await in chainSend
+stepFetchChain @ serial.js:374
+onDataFrame @ serial.js:190
+await in onDataFrame
+processBatch @ serial.js:146
+(anonymous) @ serial.js:116
+setTimeout
+readLoop @ serial.js:113
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+serial.js:458 通信超时（3333ms）
+(anonymous) @ serial.js:458
+setTimeout
+startStageTimer @ serial.js:457
+chainSend @ serial.js:290
+await in chainSend
+stepFetchChain @ serial.js:374
+onDataFrame @ serial.js:190
+await in onDataFrame
+processBatch @ serial.js:146
+(anonymous) @ serial.js:116
+setTimeout
+readLoop @ serial.js:113
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+serial.js:458 通信超时（3333ms）
+(anonymous) @ serial.js:458
+setTimeout
+startStageTimer @ serial.js:457
+chainSend @ serial.js:290
+await in chainSend
+stepFetchChain @ serial.js:374
+onDataFrame @ serial.js:190
+await in onDataFrame
+processBatch @ serial.js:146
+(anonymous) @ serial.js:116
+setTimeout
+readLoop @ serial.js:113
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+dlg-comset.js:33 选择串口失败 NotFoundError: Failed to execute 'requestPort' on 'Serial': No port selected by the user.
+pickPort @ dlg-comset.js:33
+await in pickPort
+(anonymous) @ dlg-comset.js:63
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+index.html:1 Blocked aria-hidden on an element because its descendant retained focus. The focus must not be hidden from assistive technology users. Avoid using aria-hidden on a focused element or its ancestor. Consider using the inert attribute instead, which will also prevent focus. For more details, see the aria-hidden section of the WAI-ARIA specification at https://w3c.github.io/aria/#aria-hidden.
+Element with focus: <button.btn btn-secondary#com-cancel>
+Ancestor with aria-hidden: <div.modal fade#dlg-comset> <div class=​"modal fade" id=​"dlg-comset" tabindex=​"-1" style=​"display:​ none;​" aria-hidden=​"true">​…​</div>​
+serial.js:458 通信超时（3333ms）
+(anonymous) @ serial.js:458
+setTimeout
+startStageTimer @ serial.js:457
+chainSend @ serial.js:290
+await in chainSend
+stepFetchChain @ serial.js:374
+onDataFrame @ serial.js:190
+await in onDataFrame
+processBatch @ serial.js:146
+(anonymous) @ serial.js:116
+setTimeout
+readLoop @ serial.js:113
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+serial.js:458 通信超时（3333ms）
+(anonymous) @ serial.js:458
+setTimeout
+startStageTimer @ serial.js:457
+chainSend @ serial.js:290
+await in chainSend
+stepFetchChain @ serial.js:374
+onDataFrame @ serial.js:190
+await in onDataFrame
+processBatch @ serial.js:146
+(anonymous) @ serial.js:116
+setTimeout
+readLoop @ serial.js:113
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+serial.js:458 通信超时（3333ms）
+(anonymous) @ serial.js:458
+setTimeout
+startStageTimer @ serial.js:457
+chainSend @ serial.js:290
+await in chainSend
+stepFetchChain @ serial.js:374
+onDataFrame @ serial.js:190
+await in onDataFrame
+processBatch @ serial.js:146
+(anonymous) @ serial.js:116
+setTimeout
+readLoop @ serial.js:113
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+serial.js:458 通信超时（3333ms）
+(anonymous) @ serial.js:458
+setTimeout
+startStageTimer @ serial.js:457
+chainSend @ serial.js:290
+await in chainSend
+stepFetchChain @ serial.js:374
+onDataFrame @ serial.js:190
+await in onDataFrame
+processBatch @ serial.js:146
+(anonymous) @ serial.js:116
+setTimeout
+readLoop @ serial.js:113
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+serial.js:458 通信超时（3333ms）
+(anonymous) @ serial.js:458
+setTimeout
+startStageTimer @ serial.js:457
+chainSend @ serial.js:290
+await in chainSend
+stepFetchChain @ serial.js:374
+onDataFrame @ serial.js:190
+await in onDataFrame
+processBatch @ serial.js:146
+(anonymous) @ serial.js:116
+setTimeout
+readLoop @ serial.js:113
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+serial.js:458 通信超时（3333ms）
+(anonymous) @ serial.js:458
+setTimeout
+startStageTimer @ serial.js:457
+chainSend @ serial.js:290
+await in chainSend
+stepFetchChain @ serial.js:374
+onDataFrame @ serial.js:190
+await in onDataFrame
+processBatch @ serial.js:146
+(anonymous) @ serial.js:116
+setTimeout
+readLoop @ serial.js:113
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+serial.js:458 通信超时（3333ms）
+(anonymous) @ serial.js:458
+setTimeout
+startStageTimer @ serial.js:457
+chainSend @ serial.js:290
+await in chainSend
+stepFetchChain @ serial.js:374
+onDataFrame @ serial.js:190
+await in onDataFrame
+processBatch @ serial.js:146
+(anonymous) @ serial.js:116
+setTimeout
+readLoop @ serial.js:113
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+serial.js:458 通信超时（3333ms）
+(anonymous) @ serial.js:458
+setTimeout
+startStageTimer @ serial.js:457
+chainSend @ serial.js:290
+await in chainSend
+stepFetchChain @ serial.js:374
+onDataFrame @ serial.js:190
+await in onDataFrame
+processBatch @ serial.js:146
+(anonymous) @ serial.js:116
+setTimeout
+readLoop @ serial.js:113
+serial.js:285 发送报文 37 (0x25)
+serial.js:170 收到数据帧 Nr=36 (0x24)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 47 (0x2f)
+serial.js:170 收到数据帧 Nr=48 (0x30)
+serial.js:285 发送报文 49 (0x31)
+serial.js:210 收到 E5 ACK
+a

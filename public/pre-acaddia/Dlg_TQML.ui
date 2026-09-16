@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dlg_TQML</class>
+ <widget class="QWidget" name="Dlg_TQML">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>794</width>
+    <height>546</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QWidget" name="gridLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>10</y>
+     <width>568</width>
+     <height>451</height>
+    </rect>
+   </property>
+   <layout class="QGridLayout" name="gridLayout">
+    <item row="12" column="1">
+     <widget class="QLabel" name="label_13">
+      <property name="text">
+       <string>Δα(deg)</string>
+      </property>
+     </widget>
+    </item>
+    <item row="10" column="5">
+     <widget class="QLineEdit" name="lineEdit_Time_DF"/>
+    </item>
+    <item row="11" column="1">
+     <widget class="QLabel" name="label_12">
+      <property name="text">
+       <string>df/dt(Hz/S)</string>
+      </property>
+     </widget>
+    </item>
+    <item row="4" column="4">
+     <widget class="QLineEdit" name="lineEdit_Sent_U2"/>
+    </item>
+    <item row="13" column="4">
+     <widget class="QCheckBox" name="checkBox_Sent_OK">
+      <property name="text">
+       <string>完成</string>
+      </property>
+     </widget>
+    </item>
+    <item row="5" column="3">
+     <widget class="QLineEdit" name="lineEdit_Rec_F1"/>
+    </item>
+    <item row="4" column="3">
+     <widget class="QLineEdit" name="lineEdit_Rec_U2"/>
+    </item>
+    <item row="2" column="1">
+     <widget class="QLabel" name="label_3">
+      <property name="text">
+       <string>(ms)</string>
+      </property>
+     </widget>
+    </item>
+    <item row="8" column="3">
+     <widget class="QLineEdit" name="lineEdit_Rec_F2_DT"/>
+    </item>
+    <item row="0" column="4">
+     <widget class="QRadioButton" name="radioButton_Sent">
+      <property name="text">
+       <string>发合闸命令</string>
+      </property>
+     </widget>
+    </item>
+    <item row="8" column="5">
+     <widget class="QLineEdit" name="lineEdit_Time_F2_DT"/>
+    </item>
+    <item row="12" column="5">
+     <widget class="QLineEdit" name="lineEdit_Time_DA"/>
+    </item>
+    <item row="12" column="4">
+     <widget class="QLineEdit" name="lineEdit_Sent_DA"/>
+    </item>
+    <item row="2" column="4">
+     <widget class="QLineEdit" name="lineEdit_Sent_MS"/>
+    </item>
+    <item row="4" column="5">
+     <widget class="QLineEdit" name="lineEdit_Time_U2"/>
+    </item>
+    <item row="7" column="3">
+     <widget class="QLineEdit" name="lineEdit_Rec_F1_DT"/>
+    </item>
+    <item row="7" column="4">
+     <widget class="QLineEdit" name="lineEdit_Sent_F1_DT"/>
+    </item>
+    <item row="0" column="5">
+     <widget class="QRadioButton" name="radioButton_Time">
+      <property name="text">
+       <string>合闸时刻</string>
+      </property>
+     </widget>
+    </item>
+    <item row="3" column="1">
+     <widget class="QLabel" name="label_4">
+      <property name="text">
+       <string>U1(V)</string>
+      </property>
+     </widget>
+    </item>
+    <item row="8" column="1">
+     <widget class="QLabel" name="label_9">
+      <property name="text">
+       <string>f2/dT(Hz/S)</string>
+      </property>
+     </widget>
+    </item>
+    <item row="6" column="3">
+     <widget class="QLineEdit" name="lineEdit_Rec_F2"/>
+    </item>
+    <item row="3" column="5">
+     <widget class="QLineEdit" name="lineEdit_Time_U1"/>
+    </item>
+    <item row="4" column="1">
+     <widget class="QLabel" name="label_5">
+      <property name="text">
+       <string>U2(V)</string>
+      </property>
+     </widget>
+    </item>
+    <item row="3" column="4">
+     <widget class="QLineEdit" name="lineEdit_Sent_U1"/>
+    </item>
+    <item row="6" column="5">
+     <widget class="QLineEdit" name="lineEdit_Time_F2"/>
+    </item>
+    <item row="12" column="3">
+     <widget class="QLineEdit" name="lineEdit_Rec_DA"/>
+    </item>
+    <item row="2" column="5">
+     <widget class="QLineEdit" name="lineEdit_Time_MS"/>
+    </item>
+    <item row="7" column="1">
+     <widget class="QLabel" name="label_8">
+      <property name="text">
+       <string>f1/dT(Hz/S)</string>
+      </property>
+     </widget>
+    </item>
+    <item row="5" column="5">
+     <widget class="QLineEdit" name="lineEdit_Time_F1"/>
+    </item>
+    <item row="3" column="3">
+     <widget class="QLineEdit" name="lineEdit_Rec_U1"/>
+    </item>
+    <item row="9" column="3">
+     <widget class="QLineEdit" name="lineEdit_Rec_DU"/>
+    </item>
+    <item row="11" column="4">
+     <widget class="QLineEdit" name="lineEdit_Sent_DF_DT"/>
+    </item>
+    <item row="5" column="4">
+     <widget class="QLineEdit" name="lineEdit_Sent_F1"/>
+    </item>
+    <item row="10" column="4">
+     <widget class="QLineEdit" name="lineEdit_Sent_DF"/>
+    </item>
+    <item row="11" column="3">
+     <widget class="QLineEdit" name="lineEdit_Rec_DF_DT"/>
+    </item>
+    <item row="9" column="5">
+     <widget class="QLineEdit" name="lineEdit_Time_DU"/>
+    </item>
+    <item row="13" column="3">
+     <widget class="QCheckBox" name="checkBox_Rec_OK">
+      <property name="text">
+       <string>完成</string>
+      </property>
+     </widget>
+    </item>
+    <item row="13" column="5">
+     <widget class="QCheckBox" name="checkBox_Time_OK">
+      <property name="text">
+       <string>完成</string>
+      </property>
+     </widget>
+    </item>
+    <item row="0" column="3">
+     <widget class="QRadioButton" name="radioButton_Rec">
+      <property name="text">
+       <string>接收到命令</string>
+      </property>
+     </widget>
+    </item>
+    <item row="11" column="5">
+     <widget class="QLineEdit" name="lineEdit_Time_DF_DT"/>
+    </item>
+    <item row="0" column="1">
+     <widget class="QLabel" name="label">
+      <property name="text">
+       <string>信息</string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="1">
+     <widget class="QLabel" name="label_2">
+      <property name="text">
+       <string>Date</string>
+      </property>
+     </widget>
+    </item>
+    <item row="7" column="5">
+     <widget class="QLineEdit" name="lineEdit_Time_F1_DT"/>
+    </item>
+    <item row="6" column="1">
+     <widget class="QLabel" name="label_7">
+      <property name="text">
+       <string>f2(Hz)</string>
+      </property>
+     </widget>
+    </item>
+    <item row="5" column="1">
+     <widget class="QLabel" name="label_6">
+      <property name="text">
+       <string>f1(Hz)</string>
+      </property>
+     </widget>
+    </item>
+    <item row="10" column="3">
+     <widget class="QLineEdit" name="lineEdit_Rec_DF"/>
+    </item>
+    <item row="6" column="4">
+     <widget class="QLineEdit" name="lineEdit_Sent_F2"/>
+    </item>
+    <item row="8" column="4">
+     <widget class="QLineEdit" name="lineEdit_Sent_F2_DT"/>
+    </item>
+    <item row="9" column="4">
+     <widget class="QLineEdit" name="lineEdit_Sent_DU"/>
+    </item>
+    <item row="10" column="1">
+     <widget class="QLabel" name="label_11">
+      <property name="text">
+       <string>Δf(Hz)</string>
+      </property>
+     </widget>
+    </item>
+    <item row="9" column="1">
+     <widget class="QLabel" name="label_10">
+      <property name="text">
+       <string>Δu(V)</string>
+      </property>
+     </widget>
+    </item>
+    <item row="2" column="3">
+     <widget class="QLineEdit" name="lineEdit_Rec_MS"/>
+    </item>
+    <item row="1" column="3">
+     <widget class="QDateTimeEdit" name="dateTimeEdit_Rec"/>
+    </item>
+    <item row="1" column="4">
+     <widget class="QDateTimeEdit" name="dateTimeEdit_Sent"/>
+    </item>
+    <item row="1" column="5">
+     <widget class="QDateTimeEdit" name="dateTimeEdit_Time"/>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QGroupBox" name="groupBox">
+   <property name="geometry">
+    <rect>
+     <x>610</x>
+     <y>40</y>
+     <width>161</width>
+     <height>111</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>完成状态</string>
+   </property>
+   <widget class="QWidget" name="verticalLayoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>30</y>
+      <width>111</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <layout class="QVBoxLayout" name="verticalLayout">
+     <item>
+      <widget class="QCheckBox" name="checkBox_Reset">
+       <property name="text">
+        <string>复归</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QCheckBox" name="checkBox_Unfinish">
+       <property name="text">
+        <string>未完成</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QWidget" name="horizontalLayoutWidget_2">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>470</y>
+     <width>571</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout_2">
+    <item>
+     <widget class="QPushButton" name="pushButton_Apply">
+      <property name="minimumSize">
+       <size>
+        <width>80</width>
+        <height>31</height>
+       </size>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color:rgb(98, 152, 200);
+border:rgb(255, 255, 255);
+color:rgb(255, 255, 255);
+border-radius:5px</string>
+      </property>
+      <property name="text">
+       <string>同期开出</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <spacer name="horizontalSpacer">
+      <property name="orientation">
+       <enum>Qt::Horizontal</enum>
+      </property>
+      <property name="sizeHint" stdset="0">
+       <size>
+        <width>40</width>
+        <height>20</height>
+       </size>
+      </property>
+     </spacer>
+    </item>
+    <item>
+     <widget class="QPushButton" name="pushButton_Fetch">
+      <property name="minimumSize">
+       <size>
+        <width>80</width>
+        <height>31</height>
+       </size>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color:rgb(98, 152, 200);
+border:rgb(255, 255, 255);
+color:rgb(255, 255, 255);
+border-radius:5px</string>
+      </property>
+      <property name="text">
+       <string>信息读取</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <spacer name="horizontalSpacer_2">
+      <property name="orientation">
+       <enum>Qt::Horizontal</enum>
+      </property>
+      <property name="sizeHint" stdset="0">
+       <size>
+        <width>40</width>
+        <height>20</height>
+       </size>
+      </property>
+     </spacer>
+    </item>
+    <item>
+     <widget class="QPushButton" name="pushButton_Cancel">
+      <property name="minimumSize">
+       <size>
+        <width>80</width>
+        <height>31</height>
+       </size>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color:rgb(98, 152, 200);
+border:rgb(255, 255, 255);
+color:rgb(255, 255, 255);
+border-radius:5px</string>
+      </property>
+      <property name="text">
+       <string>取消</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

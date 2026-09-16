@@ -1,0 +1,156 @@
+/* ACAD DIA Web 版自定义样式（基于 Bootstrap 5 的薄层） */
+
+/* ---------- 连接窗口 ---------- */
+.view { min-height: 100vh; }
+.connect-window { width: 660px; max-width: 94vw; }
+.connect-title { font-size: 26px; font-weight: bold; margin-bottom: 10px; }
+.connect-status { color: #6c757d; margin: 8px 0 22px; min-height: 22px; }
+.connect-hint { line-height: 1.7; }
+
+/* ---------- 主窗口 ---------- */
+.main-window { width: 1100px; max-width: 96vw; }
+.main-title { font-size: 22px; font-weight: bold; margin-bottom: 12px; }
+.main-menu-row .btn { min-width: 96px; }
+.main-status { color: #495057; min-height: 20px; }
+
+/* ---------- 表单行：标签 | 输入 | 单位（全局统一对齐） ---------- */
+.frow {
+    display: grid;
+    grid-template-columns: 150px 1fr 44px;
+    gap: 6px 10px;
+    align-items: center;
+    margin: 6px 0;
+}
+.flabel { font-size: 13px; color: #33485c; line-height: 1.3; }
+.funit { font-size: 12px; color: #6c757d; }
+
+/* 同期参数标签较长，加宽标签列 */
+#dlg-tqcs .frow { grid-template-columns: 175px 1fr 44px; }
+
+/* ---------- 短标签表单行（AD 参数第二行等） ---------- */
+.frow-sm {
+    display: grid;
+    grid-template-columns: 44px 1fr 44px;
+    gap: 6px 10px;
+    align-items: center;
+    margin: 6px 0;
+}
+.frow-xs {
+    display: grid;
+    grid-template-columns: 40px 1fr;
+    gap: 6px 8px;
+    align-items: center;
+    margin: 6px 0;
+}
+.frow-sm > span, .frow-xs > span { font-size: 13px; color: #33485c; }
+.frow-sm > span:nth-child(3) { font-size: 12px; color: #6c757d; }
+
+/* ---------- 数字输入框去掉微调箭头（更贴近 Qt QLineEdit，且数字显示更完整） ---------- */
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+input[type="number"] {
+    -moz-appearance: textfield;
+    appearance: textfield;
+}
+
+/* ---------- 两列标签-输入对（AC Scaling Factors） ---------- */
+.frow2 {
+    display: grid;
+    grid-template-columns: 32px 1fr 32px 1fr;
+    gap: 4px 8px;
+    align-items: center;
+    margin: 5px 0;
+}
+.flabel2 { font-size: 13px; color: #33485c; }
+
+/* ---------- AD 参数 DC 组（2×4） ---------- */
+.dc-cell {
+    border: 1px solid #dee2e6;
+    border-radius: .375rem;
+    padding: 6px 10px;
+    background: #fff;
+}
+.dc-cell-title { font-weight: 600; font-size: 13px; margin-bottom: 4px; }
+.dc-row {
+    display: grid;
+    grid-template-columns: 18px 1fr auto;
+    gap: 4px 8px;
+    align-items: center;
+    margin: 4px 0;
+}
+.dc-row > span { font-weight: 600; font-size: 13px; color: #33485c; }
+.dc-row .form-check { margin: 0; padding-left: 0; display: flex; align-items: center; gap: 4px; }
+.dc-row .form-check-input { margin: 0; }
+
+/* ---------- 通信报文通道网格（3 组 复选框+数值，共 22 通道） ---------- */
+.msg-channels {
+    display: grid;
+    grid-template-columns: 30px 1fr 30px 1fr 30px 1fr;
+    gap: 4px 8px;
+    align-items: center;
+}
+.msg-channels label { margin: 0; display: flex; justify-content: center; align-items: center; gap: 4px; }
+.msg-channels input[type="text"] { width: 100%; }
+
+/* ---------- 通道校准表格 ---------- */
+#tbl-adjust-ac input[type="number"] { width: 90px; display: inline-block; }
+
+/* ---------- 细节 ---------- */
+input[readonly] { background-color: #e9ecef; }
+.modal-footer .btn { min-width: 88px; }
+
+/* ---------- ͨ����־��壨log.js Logger.mountPanel�� ---------- */
+.alp-panel {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 2000;
+    background: #1f1f1f;
+    border-top: 2px solid #444;
+    font-family: Consolas, "Courier New", monospace;
+    font-size: 11px;
+    line-height: 1.5;
+}
+.alp-header {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 4px 10px;
+    background: #2a2a2a;
+    border-bottom: 1px solid #444;
+}
+.alp-title { color: #e0e0e0; font-weight: 700; margin-right: 6px; }
+.alp-level {
+    background: #333;
+    color: #e0e0e0;
+    border: 1px solid #555;
+    border-radius: 3px;
+    font-size: 11px;
+    padding: 1px 4px;
+}
+.alp-btn {
+    background: #3a3a3a;
+    color: #e0e0e0;
+    border: 1px solid #555;
+    border-radius: 3px;
+    font-size: 11px;
+    padding: 1px 10px;
+    cursor: pointer;
+}
+.alp-btn:hover { background: #4a4a4a; }
+.alp-body {
+    height: 160px;
+    overflow-y: auto;
+    padding: 4px 10px;
+    background: #1f1f1f;
+}
+.alp-collapsed .alp-body { display: none; }
+.alp-line { white-space: pre-wrap; word-break: break-all; }
+.alp-debug { color: #9aa0a6; }
+.alp-info  { color: #8ab4f8; }
+.alp-warn  { color: #fdd663; }
+.alp-error { color: #f28b82; }
